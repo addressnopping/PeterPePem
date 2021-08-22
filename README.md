@@ -12,7 +12,8 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on LePostman - Message system like Discord that uses Discord as a server!
+- 🔭 I’m currently working on:
+LePostman - Message system like Discord that uses Discord as a server!
 NsmHax-Rewritten - A Minecraft 1.12.2 Hacked Client for cpvp.
 NegroWare - Another Minecraft 1.12.2 Hacked Client for cpvp.
 

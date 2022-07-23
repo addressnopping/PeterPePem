@@ -4,7 +4,7 @@
 
 - 🔭 &nbsp; I’m currently working on **Moloch.su**
 - 🌱 &nbsp; I’m currently learning Java and C#; 
-- 💬 &nbsp; Ask me about anything tech related, I am happy to try help;
+- 💬 &nbsp; Ask me about anything tech related, I am happy to try help!
 <br>
 
 ## 🏆 GitHub Trophies

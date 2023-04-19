@@ -15,7 +15,7 @@
 
 # Contact Me:
 
-[![dipshitcord](https://discord.c99.nl/widget/theme-3/898734539566874644.png)](https://discord.com/users/898734539566874644)
+[![dipshitcord](https://discord.c99.nl/widget/theme-2/1045454158326677614.png)](https://discord.com/users/1045454158326677614)
 - Github: [PeterDev](https://github.com/PeterPePem)
 
 ## 📊 Github stats

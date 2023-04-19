@@ -33,4 +33,4 @@
 
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="PeterPePem" src="https://activity-graph.herokuapp.com/graph?username=PeterPePem&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PeterPePem&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

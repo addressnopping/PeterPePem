@@ -4,7 +4,7 @@
 
 ### 🧐More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Luterium** and **NegroWare.club**
+- 🔭 &nbsp; I’m currently working on **Luterium**;
 - 🌱 &nbsp; I’m currently learning Java, Python and C#; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to try help!
 <br>

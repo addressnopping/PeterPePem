@@ -4,8 +4,8 @@
 
 ### 🧐More About Me:
 
-- 🔭 &nbsp; I’m currently working on **Luterium**;
-- 🌱 &nbsp; I’m currently learning Java, Python and C#; 
+- 🔭 &nbsp; I’m currently working on nothing;
+- 🌱 &nbsp; I’m currently learning Java, Python, C# and Lua; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to try help!
 <br>
 
